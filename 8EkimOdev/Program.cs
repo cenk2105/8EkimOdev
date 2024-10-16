@@ -39,7 +39,7 @@ namespace _8EkimOdev
                     break;
             }
 
-            Console.WriteLine("Degistirme denemesi");
+           
             
         
             Console.ReadLine();
