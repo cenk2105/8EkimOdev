@@ -38,6 +38,9 @@ namespace _8EkimOdev
                     Console.WriteLine("Secim yapmadiniz !!!");
                     break;
             }
+
+            Console.WriteLine("Degistirme denemesi");
+            
         
             Console.ReadLine();
 
